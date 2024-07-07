@@ -1,0 +1,106 @@
+@model List<BookSale.Models.SaleModel>
+@{ int number = 1; }
+<div class="row">
+    <div class="col-12">
+        <div class="card my-4">
+            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
+                    <h6 class="text-white text-capitalize ps-3">Authors table</h6>
+                </div>
+            </div>
+            <div class="card-body px-0 pb-2">
+                <div class="table-responsive p-0">
+                    <table class="table align-items-center mb-0">
+                        <thead>
+                        <tr>
+                            <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Number</th>
+                            <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Book</th>
+                            <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Name</th>
+                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Phone</th>
+                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">E-Mail</th>
+                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Address</th>
+                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Piece</th>
+                            <th class="text-secondary opacity-7"></th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var sale in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @{
+                                        number++;
+                                        @number
+                                    }
+                                </td>
+                                <td>
+                                    <div class="d-flex px-2 py-1">
+                                        <div>
+                                            <img src="~/img/books/@sale.Book.Image" class="avatar avatar-sm me-3 border-radius-lg" alt="user1" style="width: 100px">
+                                        </div>
+                                        <div class="d-flex flex-column justify-content-center">
+                                            <h6 class="mb-0 text-sm">@sale.Book.Title</h6>
+                                            <p class="text-xs text-secondary mb-0"></p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <p class="text-xs font-weight-bold mb-0">
+
+                                    </p>
+                                    <p class="text-xs text-secondary mb-0"></p>
+                                </td>
+                                <td class="align-middle text-center text-sm">
+                                    <span class="badge badge-sm bg-gradient-success">@sale.Name</span>
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span class="text-secondary text-xs font-weight-bold">@sale.Phone</span>
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span class="text-secondary text-xs font-weight-bold">@sale.Mail</span>
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span class="text-secondary text-xs font-weight-bold">@sale.Address</span>
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span class="text-secondary text-xs font-weight-bold">@sale.Piece</span>
+                                </td>
+                                <td class="align-middle">
+                                    <a href="javascript:;" class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">
+                                        @{
+                                            if (sale.Status == 0)
+                                            {
+                                                <button class="btn btn-danger saleSystem" data-id="@sale.BookId">Onay Bekliyor</button>
+                                            }
+                                            else if (sale.Status == 1)
+                                            {
+                                                <button class="btn btn-primary saleSystem" data-id="@sale.BookId">Onaylandı</button>
+                                            }
+                                            else if (sale.Status == 2)
+                                            {
+                                                <button class="btn btn-light saleSystem" data-id="@sale.BookId">Sipariş Hazırlanıyor</button>
+                                            }
+                                            else if (sale.Status == 3)
+                                            {
+                                                <button class="btn btn-primary saleSystem" data-id="@sale.BookId">Kargoya Verildi</button>
+                                            }
+                                            else if (sale.Status == 4)
+                                            {
+                                                <button class="btn btn-success">Teslim Edildi</button>
+                                            }
+                                            else
+                                            {
+                                                <button class="btn btn-outline-dark">Bilinmeyen Durun</button>
+                                            }
+                                        }
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

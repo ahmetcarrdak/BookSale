@@ -1,0 +1,2853 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/obj/Debug/net9.0/scopedcss/projectbundle/BookSale.bundle.scp.css",
+      "PackagePath": "staticwebassets/BookSale.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/css/argon-dashboard.css",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/css/argon-dashboard.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/css/argon-dashboard.css.map",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/css/argon-dashboard.css.map"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/css/argon-dashboard.min.css",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/css/argon-dashboard.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/css/nucleo-icons.css",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/css/nucleo-icons.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/css/nucleo-svg.css",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/css/nucleo-svg.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/fonts/nucleo-icons.eot",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/fonts/nucleo-icons.eot"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/fonts/nucleo-icons.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/fonts/nucleo-icons.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/fonts/nucleo-icons.ttf",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/fonts/nucleo-icons.ttf"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/fonts/nucleo-icons.woff",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/fonts/nucleo-icons.woff"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/fonts/nucleo-icons.woff2",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/fonts/nucleo-icons.woff2"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/fonts/nucleo.eot",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/fonts/nucleo.eot"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/fonts/nucleo.ttf",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/fonts/nucleo.ttf"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/fonts/nucleo.woff",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/fonts/nucleo.woff"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/fonts/nucleo.woff2",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/fonts/nucleo.woff2"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/apple-icon.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/apple-icon.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/bg-profile.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/bg-profile.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/bg1.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/bg1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/bruce-mars.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/bruce-mars.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/carousel-1.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/carousel-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/carousel-2.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/carousel-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/carousel-3.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/carousel-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/.curved10.jpg.icloud",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/.curved10.jpg.icloud"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/.curved5-small.jpg.icloud",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/.curved5-small.jpg.icloud"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved-10.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved-10.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved-11.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved-11.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved-6.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved-6.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved-8.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved-8.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved0.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved0.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved1.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved11-small.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved11-small.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved11.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved11.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved12.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved12.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved13.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved13.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved14.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved14.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved19.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved19.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved2.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved21.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved21.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved3.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved4.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved5.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved5.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved6-small.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved6-small.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved6.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved6.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved7.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved7.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved8.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved8.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/curved9.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/curved9.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/curved-images/white-curved.jpeg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/curved-images/white-curved.jpeg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/down-arrow-dark.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/down-arrow-dark.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/down-arrow-white.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/down-arrow-white.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/down-arrow.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/down-arrow.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/favicon.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/home-decor-1.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/home-decor-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/home-decor-2.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/home-decor-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/home-decor-3.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/home-decor-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/icons/flags/AU.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/icons/flags/AU.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/icons/flags/BR.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/icons/flags/BR.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/icons/flags/DE.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/icons/flags/DE.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/icons/flags/GB.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/icons/flags/GB.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/icons/flags/US.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/icons/flags/US.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/illustrations/icon-documentation.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/illustrations/icon-documentation.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/illustrations/rocket-white.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/illustrations/rocket-white.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/ivana-square.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/ivana-square.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/ivancik.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/ivancik.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/kal-visuals-square.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/logo-ct-dark.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/logo-ct-dark.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/logo-ct.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/logo-ct.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/logos/mastercard.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/logos/mastercard.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/logos/visa.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/logos/visa.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/marie.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/marie.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/shapes/pattern-lines.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/shapes/pattern-lines.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/shapes/shape-1.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/shapes/shape-1.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/shapes/shape-2.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/shapes/shape-2.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/shapes/shape-3.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/shapes/shape-3.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/shapes/wave-down.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/shapes/wave-down.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/shapes/wave-up.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/shapes/wave-up.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/shapes/waves-gray.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/shapes/waves-gray.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/shapes/waves-white.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/shapes/waves-white.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/small-logos/icon-sun-cloud.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/small-logos/icon-sun-cloud.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/small-logos/logo-atlassian.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/small-logos/logo-atlassian.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/small-logos/logo-invision.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/small-logos/logo-invision.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/small-logos/logo-jira.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/small-logos/logo-jira.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/small-logos/logo-slack.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/small-logos/logo-slack.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/small-logos/logo-spotify.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/small-logos/logo-spotify.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/small-logos/logo-webdev.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/small-logos/logo-webdev.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/small-logos/logo-xd.svg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/small-logos/logo-xd.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/team-1.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/team-2.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/team-3.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/team-4.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/angular.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/angular.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/bootstrap.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/bootstrap.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/dribbble.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/dribbble.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/dropbox.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/dropbox.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/mastercard.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/mastercard.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/paypal.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/paypal.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/react.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/react.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/sketch.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/sketch.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/slack.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/slack.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/spotify.jpeg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/spotify.jpeg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/tim.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/tim.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/unass.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/unass.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/visa.png",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/visa.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/theme/vue.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/theme/vue.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/img/vr-bg.jpg",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/img/vr-bg.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/ajax.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/ajax.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/argon-dashboard.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/argon-dashboard.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/argon-dashboard.js.map",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/argon-dashboard.js.map"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/argon-dashboard.min.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/argon-dashboard.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/core/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/core/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/core/bootstrap.min.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/core/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/core/popper.min.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/core/popper.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/plugins/Chart.extension.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/plugins/Chart.extension.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/plugins/bootstrap-notify.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/plugins/bootstrap-notify.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/plugins/chartjs.min.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/plugins/chartjs.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/plugins/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/plugins/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/js/plugins/smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/js/plugins/smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_alert.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_alert.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_avatars.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_avatars.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_badge.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_badge.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_breadcrumbs.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_buttons.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_cards.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_cards.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_dark-version.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_dropdown.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_dropup.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_dropup.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_footer.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_footer.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_forms.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_forms.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_gradients.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_gradients.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_header.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_header.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_info-areas.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_misc.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_misc.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_nav.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_nav.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_navbar.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_pagination.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_popovers.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_popovers.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_progress.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_progress.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_rtl.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_rtl.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_social-buttons.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_tables.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_tables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_tilt.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_tilt.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_timeline.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_timeline.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_tooltips.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_tooltips.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_typography.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_typography.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_utilities.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/_variables.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/_variables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_accordion.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_containers.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_helpers.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_maps.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_maps.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_offcanvas.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_placeholders.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_placeholders.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_color-bg.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_color-bg.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_stacks.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/helpers/_vr.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_backdrop.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/cards/card-background.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/cards/card-background.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/cards/card-carousel.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/cards/card-carousel.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/custom/_styles.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/custom/_styles.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/custom/_variables.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/custom/_variables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/forms/_form-switch.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/forms/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/forms/_forms.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/forms/_forms.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/forms/_inputs.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/forms/_inputs.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/forms/_labels.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/mixins/_colored-shadows.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/mixins/_colored-shadows.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/mixins/_hover.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/mixins/_social-buttons.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/mixins/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/mixins/mixins.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/mixins/mixins.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/_flatpickr.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/_flatpickr.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/_nouislider.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/_nouislider.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/_prism.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/_prism.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/plugins.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/plugins/free/plugins.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/theme.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/theme.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_animations.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_animations.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_avatars.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_avatars.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_badge.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_badge.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_cards-extend.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_cards-extend.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_cards.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_cards.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_choices.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_choices.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_dark-version.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_dropdowns.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_dropdowns.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_form-switch.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_full-calendar.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_full-calendar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_header.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_header.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_info-areas.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_misc-extend.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_misc-extend.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_misc.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_misc.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_navbar.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_pagination.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_rtl.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_rtl.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_social-buttons.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_table.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_table.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_timeline.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_timeline.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_utilities.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AdminPanelAssets/assets/scss/argon-dashboard/variables/_virtual-reality.scss",
+      "PackagePath": "staticwebassets/AdminPanelAssets/assets/scss/argon-dashboard/variables/_virtual-reality.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AuthPanelJs/admin.js",
+      "PackagePath": "staticwebassets/AuthPanelJs/admin.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AuthPanelJs/customer.js",
+      "PackagePath": "staticwebassets/AuthPanelJs/customer.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/AuthPanelJs/index.css",
+      "PackagePath": "staticwebassets/AuthPanelJs/index.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/css/material-dashboard.css",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/css/material-dashboard.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/css/material-dashboard.css.map",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/css/material-dashboard.css.map"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/css/material-dashboard.min.css",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/css/material-dashboard.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/css/nucleo-icons.css",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/css/nucleo-icons.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/css/nucleo-svg.css",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/css/nucleo-svg.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/fonts/nucleo-icons.eot",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/fonts/nucleo-icons.eot"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/fonts/nucleo-icons.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/fonts/nucleo-icons.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/fonts/nucleo-icons.ttf",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/fonts/nucleo-icons.ttf"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/fonts/nucleo-icons.woff",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/fonts/nucleo-icons.woff"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/fonts/nucleo-icons.woff2",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/fonts/nucleo-icons.woff2"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/fonts/nucleo.eot",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/fonts/nucleo.eot"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/fonts/nucleo.ttf",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/fonts/nucleo.ttf"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/fonts/nucleo.woff",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/fonts/nucleo.woff"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/fonts/nucleo.woff2",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/fonts/nucleo.woff2"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/apple-icon.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/apple-icon.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/bg-pricing.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/bg-pricing.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/bruce-mars.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/bruce-mars.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/down-arrow-dark.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/down-arrow-dark.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/down-arrow-white.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/down-arrow-white.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/down-arrow.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/down-arrow.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/drake.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/drake.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/favicon.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/home-decor-1.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/home-decor-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/home-decor-2.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/home-decor-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/home-decor-3.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/home-decor-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/icons/flags/AU.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/icons/flags/AU.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/icons/flags/BR.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/icons/flags/BR.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/icons/flags/DE.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/icons/flags/DE.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/icons/flags/GB.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/icons/flags/GB.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/icons/flags/US.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/icons/flags/US.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/chat.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/chat.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/danger-chat-ill.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/danger-chat-ill.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/dark-lock-ill.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/dark-lock-ill.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/error-404.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/error-404.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/error-500.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/error-500.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/illustration-lock.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/illustration-lock.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/illustration-reset.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/illustration-reset.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/illustration-signin.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/illustration-signin.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/illustration-signup.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/illustration-signup.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/illustration-verification.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/illustration-verification.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/lock.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/lock.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/pattern-tree.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/pattern-tree.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/illustrations/rocket-white.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/illustrations/rocket-white.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/ivana-square.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/ivana-square.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/ivana-squares.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/ivana-squares.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/ivancik.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/ivancik.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/kal-visuals-square.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logo-ct-dark.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logo-ct-dark.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logo-ct.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logo-ct.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logos/gray-logos/logo-coinbase.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logos/gray-logos/logo-coinbase.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logos/gray-logos/logo-nasa.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logos/gray-logos/logo-nasa.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logos/gray-logos/logo-netflix.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logos/gray-logos/logo-netflix.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logos/gray-logos/logo-pinterest.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logos/gray-logos/logo-pinterest.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logos/gray-logos/logo-spotify.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logos/gray-logos/logo-spotify.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logos/gray-logos/logo-vodafone.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logos/gray-logos/logo-vodafone.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logos/mastercard.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logos/mastercard.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/logos/visa.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/logos/visa.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/marie.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/marie.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/meeting.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/meeting.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/office-dark.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/office-dark.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/product-12.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/product-12.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-1-min.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-1-min.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-11.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-11.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-2-min.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-2-min.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-3-min.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-3-min.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-4-min.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-4-min.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-5-min.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-5-min.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-6-min.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-6-min.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-7-min.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-7-min.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-details-1.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-details-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-details-2.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-details-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-details-3.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-details-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-details-4.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-details-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/products/product-details-5.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/products/product-details-5.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/shapes/pattern-lines.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/shapes/pattern-lines.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/shapes/waves-white.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/shapes/waves-white.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/bootstrap.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/bootstrap.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/creative-tim.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/creative-tim.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/devto.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/devto.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/github.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/github.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/google-webdev.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/google-webdev.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/icon-bulb.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/icon-bulb.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/icon-sun-cloud.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/icon-sun-cloud.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/logo-asana.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/logo-asana.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/logo-atlassian.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/logo-atlassian.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/logo-invision.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/logo-invision.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/logo-jira.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/logo-jira.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/logo-slack.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/logo-slack.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/logo-spotify.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/logo-spotify.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/small-logos/logo-xd.svg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/small-logos/logo-xd.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/team-1.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/team-2.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/team-3.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/team-4.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/team-5.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/team-5.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/tesla-model-s.png",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/tesla-model-s.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/img/vr-bg.jpg",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/img/vr-bg.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/ajax.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/ajax.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/core/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/core/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/core/bootstrap.min.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/core/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/core/popper.min.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/core/popper.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/material-dashboard.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/material-dashboard.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/material-dashboard.js.map",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/material-dashboard.js.map"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/material-dashboard.min.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/material-dashboard.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/plugins/Chart.extension.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/plugins/Chart.extension.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/plugins/bootstrap-notify.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/plugins/bootstrap-notify.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/plugins/chartjs.min.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/plugins/chartjs.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/plugins/countup.min.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/plugins/countup.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/plugins/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/plugins/perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/plugins/smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/plugins/smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/js/plugins/world.js",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/js/plugins/world.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_alert.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_alert.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_avatars.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_avatars.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_badge.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_badge.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_breadcrumbs.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_buttons.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_cards.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_cards.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_dark-version.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_dropdown.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_dropup.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_dropup.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_footer.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_footer.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_forms.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_forms.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_gradients.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_gradients.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_header.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_header.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_icons.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_icons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_info-areas.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_misc.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_misc.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_nav.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_nav.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_navbar.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_pagination.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_popovers.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_popovers.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_progress.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_progress.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_ripple.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_ripple.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_rtl.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_rtl.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_social-buttons.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_tables.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_tables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_tilt.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_tilt.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_timeline.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_timeline.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_tooltips.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_tooltips.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_typography.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_typography.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_utilities.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/_variables.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/_variables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_accordion.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_containers.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_helpers.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_maps.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_maps.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_offcanvas.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_offcanvas.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_placeholders.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_placeholders.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_color-bg.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_color-bg.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_stacks.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/helpers/_vr.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_backdrop.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_banner.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_banner.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/cards/card-background.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/cards/card-background.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/cards/card-rotate.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/cards/card-rotate.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/custom/_styles.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/custom/_styles.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/custom/_variables.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/custom/_variables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/forms/_form-switch.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/forms/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/forms/_forms.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/forms/_forms.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/forms/_inputs.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/forms/_inputs.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/forms/_labels.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_badge.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_colored-shadows.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_colored-shadows.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_hover.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_social-buttons.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_vendor.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/mixins/_vendor.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/mixins/mixins.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/mixins/mixins.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/_flatpickr.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/_flatpickr.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/_nouislider.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/_nouislider.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/_prism.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/_prism.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/plugins.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/plugins/free/plugins.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/theme.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/theme.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_animations.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_animations.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_avatars.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_avatars.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_badge.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_badge.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_cards-extend.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_cards-extend.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_cards.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_cards.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_choices.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_choices.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_dark-version.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_dark-version.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_dropdowns.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_dropdowns.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_fixed-plugin.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_form-switch.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_form-switch.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_full-calendar.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_full-calendar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_header.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_header.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_info-areas.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_info-areas.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_misc-extend.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_misc-extend.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_misc.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_misc.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_navbar-vertical.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_navbar.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_pagination.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_ripple.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_ripple.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_rtl.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_rtl.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_social-buttons.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_table.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_table.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_timeline.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_timeline.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_utilities-extend.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_utilities.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/CustomerPanelAssets/assets/scss/material-dashboard/variables/_virtual-reality.scss",
+      "PackagePath": "staticwebassets/CustomerPanelAssets/assets/scss/material-dashboard/variables/_virtual-reality.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/css/animate.min.css",
+      "PackagePath": "staticwebassets/MemberPanelAssets/css/animate.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/MemberPanelAssets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/css/demo.css",
+      "PackagePath": "staticwebassets/MemberPanelAssets/css/demo.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/css/light-bootstrap-dashboard.css",
+      "PackagePath": "staticwebassets/MemberPanelAssets/css/light-bootstrap-dashboard.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/css/pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets/MemberPanelAssets/css/pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/fonts/Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets/MemberPanelAssets/fonts/Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/fonts/Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/fonts/Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/fonts/Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets/MemberPanelAssets/fonts/Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/fonts/Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets/MemberPanelAssets/fonts/Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/default-avatar.png",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/default-avatar.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/faces/face-0.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/faces/face-0.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/faces/face-1.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/faces/face-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/faces/face-2.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/faces/face-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/faces/face-3.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/faces/face-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/faces/face-4.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/faces/face-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/faces/face-5.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/faces/face-5.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/faces/face-6.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/faces/face-6.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/faces/face-7.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/faces/face-7.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/faces/tim_vector.jpe",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/faces/tim_vector.jpe"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/favicon.ico",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/favicon.ico"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/full-screen-image-3.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/full-screen-image-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/loading-bubbles.svg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/loading-bubbles.svg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/mask.png",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/mask.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/new_logo.png",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/new_logo.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/sidebar-1.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/sidebar-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/sidebar-2.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/sidebar-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/sidebar-3.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/sidebar-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/sidebar-4.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/sidebar-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/sidebar-5.jpg",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/sidebar-5.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/img/tim_80x80.png",
+      "PackagePath": "staticwebassets/MemberPanelAssets/img/tim_80x80.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/js/ajax.js",
+      "PackagePath": "staticwebassets/MemberPanelAssets/js/ajax.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/js/bootstrap-notify.js",
+      "PackagePath": "staticwebassets/MemberPanelAssets/js/bootstrap-notify.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/js/bootstrap-select.js",
+      "PackagePath": "staticwebassets/MemberPanelAssets/js/bootstrap-select.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/MemberPanelAssets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/js/chartist.min.js",
+      "PackagePath": "staticwebassets/MemberPanelAssets/js/chartist.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/js/demo.js",
+      "PackagePath": "staticwebassets/MemberPanelAssets/js/demo.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/js/jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets/MemberPanelAssets/js/jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/js/light-bootstrap-dashboard.js",
+      "PackagePath": "staticwebassets/MemberPanelAssets/js/light-bootstrap-dashboard.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_alerts.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_alerts.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_buttons.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_cards.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_cards.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_chartist.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_chartist.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_checkbox-radio-switch.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_checkbox-radio-switch.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_dropdown.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_footers.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_footers.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_inputs.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_inputs.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_misc.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_misc.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_mixins.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_mixins.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_navbars.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_navbars.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_responsive.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_responsive.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_tables.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_tables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_typography.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_typography.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/_variables.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/_variables.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_cards.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_cards.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_chartist.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_chartist.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_icons.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_icons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_inputs.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_inputs.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_labels.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_labels.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_morphing-buttons.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_morphing-buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_navbars.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_navbars.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_social-buttons.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_social-buttons.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_tabs.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_tabs.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_transparency.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_transparency.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/lbd/mixins/_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/lbd/mixins/_vendor-prefixes.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/MemberPanelAssets/sass/light-bootstrap-dashboard.scss",
+      "PackagePath": "staticwebassets/MemberPanelAssets/sass/light-bootstrap-dashboard.scss"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/.DS_Store",
+      "PackagePath": "staticwebassets/img/.DS_Store"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/about.jpg",
+      "PackagePath": "staticwebassets/img/about.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/actionBook.jpeg",
+      "PackagePath": "staticwebassets/img/actionBook.jpeg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/animateBook.jpeg",
+      "PackagePath": "staticwebassets/img/animateBook.jpeg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/bg-hero.jpg",
+      "PackagePath": "staticwebassets/img/bg-hero.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/booking.jpg",
+      "PackagePath": "staticwebassets/img/booking.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/destination-2.jpg",
+      "PackagePath": "staticwebassets/img/books/destination-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image1.jpg",
+      "PackagePath": "staticwebassets/img/books/image1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image10.jpg",
+      "PackagePath": "staticwebassets/img/books/image10.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image2.jpg",
+      "PackagePath": "staticwebassets/img/books/image2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image3.jpg",
+      "PackagePath": "staticwebassets/img/books/image3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image4.jpg",
+      "PackagePath": "staticwebassets/img/books/image4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image5.jpg",
+      "PackagePath": "staticwebassets/img/books/image5.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image6.jpg",
+      "PackagePath": "staticwebassets/img/books/image6.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image7.jpg",
+      "PackagePath": "staticwebassets/img/books/image7.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image8.jpg",
+      "PackagePath": "staticwebassets/img/books/image8.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/books/image9.jpg",
+      "PackagePath": "staticwebassets/img/books/image9.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/comedyBook.jpeg",
+      "PackagePath": "staticwebassets/img/comedyBook.jpeg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/destination-1.jpg",
+      "PackagePath": "staticwebassets/img/destination-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/destination-2.jpg",
+      "PackagePath": "staticwebassets/img/destination-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/destination-3.jpg",
+      "PackagePath": "staticwebassets/img/destination-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/destination-4.jpg",
+      "PackagePath": "staticwebassets/img/destination-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/fearBook.jpeg",
+      "PackagePath": "staticwebassets/img/fearBook.jpeg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/kidsBooking.jpeg",
+      "PackagePath": "staticwebassets/img/kidsBooking.jpeg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/package-1.jpg",
+      "PackagePath": "staticwebassets/img/package-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/package-2.jpg",
+      "PackagePath": "staticwebassets/img/package-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/package-3.jpg",
+      "PackagePath": "staticwebassets/img/package-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/romanticBook.jpeg",
+      "PackagePath": "staticwebassets/img/romanticBook.jpeg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/team-1.jpg",
+      "PackagePath": "staticwebassets/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/team-2.jpg",
+      "PackagePath": "staticwebassets/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/team-3.jpg",
+      "PackagePath": "staticwebassets/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/team-4.jpg",
+      "PackagePath": "staticwebassets/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/testimonial-3.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-3.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/img/testimonial-4.jpg",
+      "PackagePath": "staticwebassets/img/testimonial-4.jpg"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/js/ajax.js",
+      "PackagePath": "staticwebassets/js/ajax.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/js/subject.js",
+      "PackagePath": "staticwebassets/js/subject.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/.DS_Store",
+      "PackagePath": "staticwebassets/lib/.DS_Store"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/animate/animate.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/animate/animate.min.css",
+      "PackagePath": "staticwebassets/lib/animate/animate.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/lib/owlcarousel"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets/lib/tempusdominus/css/tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/tempusdominus/js/moment-timezone.min.js",
+      "PackagePath": "staticwebassets/lib/tempusdominus/js/moment-timezone.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/tempusdominus/js/moment.min.js",
+      "PackagePath": "staticwebassets/lib/tempusdominus/js/moment.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets/lib/tempusdominus/js/tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/waypoints/links.php",
+      "PackagePath": "staticwebassets/lib/waypoints/links.php"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/waypoints/waypoints.min.js",
+      "PackagePath": "staticwebassets/lib/waypoints/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/wow/wow.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.js"
+    },
+    {
+      "Id": "/Users/ahmetcardak/Desktop/BookSale/BookSale/wwwroot/lib/wow/wow.min.js",
+      "PackagePath": "staticwebassets/lib/wow/wow.min.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.BookSale.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.BookSale.props",
+      "PackagePath": "build\\BookSale.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.BookSale.props",
+      "PackagePath": "buildMultiTargeting\\BookSale.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.BookSale.props",
+      "PackagePath": "buildTransitive\\BookSale.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

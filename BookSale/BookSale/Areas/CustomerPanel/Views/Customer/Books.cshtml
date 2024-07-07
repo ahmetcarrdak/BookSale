@@ -1,0 +1,188 @@
+@model List<BookSale.Models.BookModel>
+@{ int number = 1; }
+<div class="row">
+    <div class="col-12">
+        <div class="card my-4">
+            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h6 class="text-white text-capitalize ps-3">Books table</h6>
+                        </div>
+                        <div class="col-m6-6 text-center">
+                            <button type="button" class="btn btn-outline-info" id="insert_book">Insert</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body px-0 pb-2" id="table">
+                <div class="table-responsive p-0">
+                    <table class="table align-items-center mb-0">
+                        <thead>
+                        <tr>
+                            <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Number</th>
+                            <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Image</th>
+                            <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">
+                                Title
+                            </th>
+                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
+                                Subject
+                            </th>
+                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
+                                Price
+                            </th>
+                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
+                                Stock
+                            </th>
+                            <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
+                                Author
+                            </th>
+                            <th class="text-secondary opacity-7"></th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var book in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @{
+                                        number++;
+                                        @number
+                                    }
+                                </td>
+                                <td>
+                                    <div class="d-flex px-2 py-1">
+                                        <div>
+                                            <img src="~/img/books/@book.Image"
+                                                 class="avatar avatar-sm me-3 border-radius-lg" alt="user1"
+                                                 style="width: 100px">
+                                        </div>
+                                        <div class="d-flex flex-column justify-content-center">
+                                            <h6 class="mb-0 text-sm">@book.Title</h6>
+                                            <input type="text" class="form-control @book.Id" name="title"
+                                                   style="display: none;border: 1px solid indigo" value="@book.Title">
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <p class="text-xs font-weight-bold mb-0">@book.Subject</p>
+                                    <input type="text" class="form-control @book.Id" name="subject"
+                                           style="display: none;border: 1px solid indigo" value="@book.Subject">
+                                </td>
+                                <td class="align-middle text-center text-sm">
+                                    <span class="badge badge-sm bg-gradient-success">@book.Type</span>
+                                    <input type="text" class="form-control @book.Id" name="type"
+                                           style="display: none;border: 1px solid indigo" value="@book.Type">
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span class="text-secondary text-xs font-weight-bold">@book.Price</span>
+                                    <input type="text" class="form-control @book.Id" name="price"
+                                           style="display: none;border: 1px solid indigo" value="@book.Price">
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span class="text-secondary text-xs font-weight-bold">@book.Stock</span>
+                                    <input type="text" class="form-control @book.Id" name="stock"
+                                           style="display: none;border: 1px solid indigo" value="@book.Stock">
+                                </td>
+                                <td class="align-middle text-center">
+                                    <span class="text-secondary text-xs font-weight-bold">@book.Author</span>
+                                    <input type="text" class="form-control @book.Id" name="author"
+                                           style="display: none;border: 1px solid indigo" value="@book.Author">
+                                </td>
+                                <td class="align-middle">
+                                    <button type="button" href="javascript:;"
+                                            class="text-secondary font-weight-bold text-xs btn btn-outline-danger text-center BookUpdateClose"
+                                            data-id="@book.Id" style="display: none">
+                                        x
+                                    </button>
+                                    <button type="button" href="javascript:;"
+                                            class="text-secondary font-weight-bold text-xs btn btn-outline-info text-center BookEdit"
+                                            data-id="@book.Id">
+                                        Edit
+                                    </button>
+                                    <button type="button" href="javascript:;"
+                                            class="text-secondary font-weight-bold text-xs btn btn-outline-success text-center BookUpdate"
+                                            data-id="@book.Id" style="display: none">
+                                        Update
+                                    </button>
+                                    <button type="button" href="javascript:;"
+                                            class="text-secondary font-weight-bold text-xs btn btn-outline-danger text-center BookDelete"
+                                            data-id="@book.Id">
+                                        Delete
+                                    </button>
+                                </td>
+                            </tr>
+                        }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <style>
+                input {
+                    width: 100%;
+                    border: 1px solid indigo;
+                    padding: 10px;
+                }
+            </style>
+            <div class="card-body px-0 pb-2" id="insert_form" style="display: none">
+                <form id="book_insert_form" onsubmit="return false">
+                    <div class="row p-4">
+                        <div class="col-md-12">
+                            <div class="input-group" style="display: flex;justify-content: center">
+                                <button class="btn btn-primary" type="button" onclick="$('input[type=file]').click()">Select File</button>
+                                <input type="file" name="img" style="display: none">
+                                <img src="" alt="" id="book_img" style="width: 80%">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Title" name="title">
+                            </div>
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Subject" name="subject">
+                            </div>
+                            <div class="input-group">
+                                <label for="anaKonu">Ana Konu:</label>
+                                <select id="anaKonu" name="subject">
+                                    <option value="">Seçiniz</option>
+                                    <option value="Romanlar">Romanlar</option>
+                                    <option value="Edebiyat">Edebiyat</option>
+                                    <option value="Bilim">Bilim</option>
+                                    <option value="Tarih">Tarih</option>
+                                    <option value="Kişisel Gelişim">Kişisel Gelişim</option>
+                                    <option value="Sanat">Sanat</option>
+                                    <option value="Çocuk Kitapları">Çocuk Kitapları</option>
+                                    <option value="Din">Din</option>
+                                    <option value="Hobi ve Eğlence">Hobi ve Eğlence</option>
+                                    <option value="Akademik">Akademik</option>
+                                </select>
+                            </div>
+                            <div class="input-group">
+                                <label for="altKonu">Alt Konu:</label>
+                                <select id="altKonu" name="type">
+                                    <option value="">Seçiniz</option>
+                                </select>
+                            </div>
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Price" name="price">
+                            </div>
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Stock" name="stock">
+                            </div>
+                            <div class="input-group">
+                                <textarea name="description" id="" cols="30" rows="10"></textarea>
+                            </div>
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Author" name="author">
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-success">Insert</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

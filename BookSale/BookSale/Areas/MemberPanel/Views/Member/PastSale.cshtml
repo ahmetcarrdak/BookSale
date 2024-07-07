@@ -1,0 +1,85 @@
+@model List<BookSale.Models.SaleModel>
+@{
+    int number = 0;
+}
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="header">
+                        <div class="col-md-6">
+                            <h4 class="title">Past Sale Table</h4>
+                        </div>
+                    </div>
+                    <div class="content table-responsive table-full-width">
+                        <table class="table table-hover table-striped">
+                            <thead>
+                            <th>Number</th>
+                            <th>Photo</th>
+                            <th>Name</th>
+                            <th>Subject</th>
+                            <th>Type</th>
+                            <th>Price</th>
+                            <th>Status</th>
+                            </thead>
+                            <tbody>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @{
+                                            number++;
+                                            @number
+                                        }
+                                    </td>
+                                    <td>
+                                        <img src="~/img/books/@item.Book.Image" alt="" width="100">
+                                    </td>
+                                    <td>@item.Book.Title</td>
+                                    <td>@item.Book.Subject</td>
+                                    <td>@item.Book.Type</td>
+                                    <td>@item.Book.Price</td>
+                                    <td class="text-primary">
+                                        @{
+                                            string statusText;
+
+                                            if (item.Status == 0)
+                                            {
+                                                statusText = "Sipariş alındı";
+                                            }
+                                            else if (item.Status == 1)
+                                            {
+                                                statusText = "Onaylandı";
+                                            }
+                                            else if (item.Status == 2)
+                                            {
+                                                statusText = "Sipariş Hazırlanıyor";
+                                            }
+                                            else if (item.Status == 3)
+                                            {
+                                                statusText = "Kargoya verildi";
+                                            }
+                                            else if (item.Status == 4)
+                                            {
+                                                statusText = "Teslim edildi";
+                                            }
+                                            else
+                                            {
+                                                statusText = "Bilinmeyen durum";
+                                            }
+
+                                            @statusText
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

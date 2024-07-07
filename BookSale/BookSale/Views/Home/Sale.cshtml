@@ -1,0 +1,111 @@
+@model BookSale.Controllers.SaleViewModel
+@using BookSale.EnDeCode
+
+<div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="row">
+            @foreach (var book in Model.Books)
+            {
+                <div class="col-lg-6 col-md-4 col-sm-12">
+                    <div class="sale_title">@book.Title</div>
+                    <hr>
+                    <div class="sale_img">
+                        <img src="~/img/books/@book.Image" alt="" style="width: 100%;max-width: 400px;">
+                    </div>
+                </div>
+
+
+                <div class="col-lg-6 col-md-8 col-sm-12">
+                    @if (Model.Members != null && Model.Members.Count > 0)
+                    {
+                        @foreach (var member in Model.Members)
+                        {
+                            <form onsubmit="return false" id="sale_form">
+                                <input type="hidden" name="notify" value="@EncryptionHelper.EncryptId(book.Id)">
+                                <input type="hidden" name="customerId" value="@EncryptionHelper.EncryptId(book.CustomerId)">
+                                <div class="row mt-5">
+                                    <div class="input-group col-lg-6 col-sm-12">
+                                        <input type="text" placeholder="Please Name" name="name" value="@member.Name" class="form-control mt-1">
+                                    </div>
+                                    <div class="col-6 col-sm-12">
+                                        <input type="number" placeholder="Please Phone" name="phone" value="@member.Phone" class="form-control mt-1">
+                                    </div>
+                                    <div class="input-group col-12">
+                                        <input type="email" placeholder="Please E-Mail" name="mail" value="@member.Email" class="form-control mt-1">
+                                    </div>
+                                    <div class="input-group col-12">
+                                        <input type="text" placeholder="Please Address" name="address" value="@member.Address" class="form-control mt-1">
+                                    </div>
+                                </div>
+
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <input type="number" placeholder="Card Number" name="cardNumber" value="1234567890123456" disabled class="form-control mt-1">
+                                    </div>
+                                    <div class="col-lg-7 col-sm-12">
+                                        <input type="text" placeholder="Please Card Name" name="cardName" value="John Doe" disabled class="form-control mt-1">
+                                    </div>
+                                    <div class="col-lg-5 col-sm-12">
+                                        <input type="text" placeholder="MM/YYYY" name="cardDate" value="12/2023" disabled class="form-control mt-1">
+                                    </div>
+                                    <div class="col-12">
+                                        <input type="number" placeholder="Please Card CVV" name="cvv" value="123" disabled class="form-control mt-1">
+                                    </div>
+                                </div>
+
+                                <div class="row mt-3">
+                                    <div class="col-12">
+                                        <button class="btn btn-primary">Send</button>
+                                    </div>
+                                </div>
+                            </form>
+                        }
+                    }
+                    else
+                    {
+                        <form onsubmit="return false" id="sale_form">
+                            <input type="hidden" name="notify" value="@EncryptionHelper.EncryptId(book.Id)">
+                            <input type="hidden" name="customerId" value="@EncryptionHelper.EncryptId(book.CustomerId)">
+                            <div class="row mt-5">
+                                <div class="input-group col-lg-6 col-sm-12">
+                                    <input type="text" placeholder="Please Name" name="name" class="form-control mt-1">
+                                </div>
+                                <div class="col-6 col-sm-12">
+                                    <input type="number" placeholder="Please Phone" name="phone" class="form-control mt-1">
+                                </div>
+                                <div class="input-group col-12">
+                                    <input type="email" placeholder="Please E-Mail" name="mail" class="form-control mt-1">
+                                </div>
+                                <div class="input-group col-12">
+                                    <input type="text" placeholder="Please Address" name="address" class="form-control mt-1">
+                                </div>
+                            </div>
+
+                            <div class="row mt-3">
+                                <div class="col-12">
+                                    <input type="number" placeholder="Card Number" name="cardNumber" value="1234567890123456" disabled class="form-control mt-1">
+                                </div>
+                                <div class="col-lg-7 col-sm-12">
+                                    <input type="text" placeholder="Please Card Name" name="cardName" value="John Doe" disabled class="form-control mt-1">
+                                </div>
+                                <div class="col-lg-5 col-sm-12">
+                                    <input type="text" placeholder="MM/YYYY" name="cardDate" value="12/2023" disabled class="form-control mt-1">
+                                </div>
+                                <div class="col-12">
+                                    <input type="number" placeholder="Please Card CVV" name="cvv" value="123" disabled class="form-control mt-1">
+                                </div>
+                            </div>
+
+                            <div class="row mt-3">
+                                <div class="col-12">
+                                    <button class="btn btn-primary">Send</button>
+                                </div>
+                            </div>
+                        </form>
+                    }
+                </div>
+            }
+
+        </div>
+    </div>
+</div>

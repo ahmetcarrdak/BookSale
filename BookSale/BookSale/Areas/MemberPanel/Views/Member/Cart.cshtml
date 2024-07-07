@@ -1,0 +1,88 @@
+@model List<BookSale.Models.CartModel>
+@using BookSale.EnDeCode
+@{
+    decimal total = 0;
+    int number = 0;
+    foreach (var item in Model)
+    {
+        total += item.Piece * item.Book.Price;
+    }
+}
+<div class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="header">
+                        <div class="col-md-6">
+                            <h4 class="title">Cart Table</h4>
+                            <p class="category">
+                                Total Price: $@total
+                            </p>
+                        </div>
+                        <div class="col-md-6" style="text-align:right;">
+                            <button class="btn btn-primary" id="MemberPanelCartSale">Satın Al</button>
+                        </div>
+                        
+                    </div>
+                    <div class="content table-responsive table-full-width">
+                        <table class="table table-hover table-striped">
+                            <thead>
+                            <th>Number</th>
+                            <th>Photo</th>
+                            <th>Name</th>
+                            <th>Subject</th>
+                            <th>Type</th>
+                            <th>Price</th>
+                            <th>Stock</th>
+                            <th>Piece</th>
+                            <th>Total</th>
+                            <th>Delete</th>
+                            </thead>
+                            <tbody>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@{
+                                            number++;
+                                            @number;
+                                        }</td>
+                                    <td>
+                                        <img src="~/img/books/@item.Book.Image" alt="" width="100">
+                                    </td>
+                                    <td>@item.Book.Title</td>
+                                    <td>@item.Book.Subject</td>
+                                    <td>@item.Book.Type</td>
+                                    <td>@item.Book.Price</td>
+                                    <td>@item.Book.Stock</td>
+                                    <td>@item.Piece</td>
+                                    <td>@(item.Piece * item.Book.Price)</td>
+                                    <td>
+                                        @{
+                                            var MemberId = EncryptionHelper.EncryptId(item.MemberId);
+                                            var CustomerId = EncryptionHelper.EncryptId(item.Book.CustomerId);
+                                            var BookId = EncryptionHelper.EncryptId(item.BookId);
+                                            var CartId = EncryptionHelper.EncryptId(item.Id);
+                                            var Piece = EncryptionHelper.EncryptId(item.Piece);
+                                        }
+                                        <button class="btn btn-danger Delete-Cart-Book"
+                                                data-x1="@MemberId"
+                                                data-x2="@CustomerId"
+                                                data-x3="@BookId"
+                                                data-x4="@CartId"
+                                                data-x5="@Piece">
+                                            <i class="pe-7s-close"></i>
+                                        </button>
+                                    </td>
+                                </tr>
+                            }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

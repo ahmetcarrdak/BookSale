@@ -1,0 +1,58 @@
+@model List<BookSale.Models.MemberModel>
+@using BookSale.EnDeCode
+
+@foreach (var user in Model)
+{
+    <div class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="header">
+                            <h4 class="title">Edit Profile</h4>
+                        </div>
+                        <div class="content">
+                            <form id="profileForm" onsubmit="return false">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label>Name And Surname</label>
+                                            <input type="text" class="form-control" placeholder="Username" value="@user.Name" name="username">
+                                            <input type="hidden" name="notify" value="@EncryptionHelper.EncryptId(user.Id)">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label>Phone</label>
+                                            <input type="tel" class="form-control" placeholder="Phone" value="@user.Phone" name="phone">
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label for="examplputEmail1">Email address</label>
+                                            <input type="email" class="form-control" placeholder="Email" value="@user.Email" name="email">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label>Address</label>
+                                            <input type="text" class="form-control" placeholder="Home Address" value="@user.Address" name="address">
+                                        </div>
+                                    </div>
+                                </div>
+                                <button type="submit" class="btn btn-info btn-fill pull-right">Update Profile</button>
+                                <div class="clearfix"></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,31 @@
+@model List<BookSale.Models.BookModel>
+@using BookSale.EnDeCode
+@foreach (var book in Model)
+{
+    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <button class="btn btn-primary book_cart_insert" data-book="@EncryptionHelper.EncryptId(book.Id)">Sepete Ekle</button>
+                    <a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="Sale" asp-route-id="@EncryptionHelper.EncryptId(book.Id)">Satın Al</a>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-lg-8 col-md-6 col-sm-12">
+                    <div class="book-img">
+                        <img src="~/img/books/@book.Image" alt="" style="max-width: 600px">
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="book_title">
+                        <div class="book_title_item">@book.Title</div>
+                        <div class="book_title_item">$@book.Price</div>
+                    </div>
+                    <hr>
+                    <div class="book_description">@book.Desc</div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

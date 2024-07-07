@@ -1,0 +1,48 @@
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5 text-center">
+            <h2>Register</h2>
+            <form action="" id="member-register-form" onsubmit="return false">
+
+                <div class="form-group">
+                    <label for=""></label>
+                    <input type="text" class="form-control" name="name" placeholder="Please Name">
+                </div>
+
+                <div class="form-group">
+                    <label for=""></label>
+                    <input type="number" class="form-control" name="phone" placeholder="Please Phone">
+                </div>
+
+                <div class="form-group">
+                    <label for=""></label>
+                    <input type="email" class="form-control" name="mail" placeholder="Please E-Mail">
+                </div>
+
+                <div class="form-group">
+                    <label for=""></label>
+                    <input type="text" class="form-control" name="address" placeholder="Please Address">
+                </div>
+                
+                <div class="form-group">
+                    <label for=""></label>
+                    <input type="password" class="form-control" name="password" placeholder="Please Password" id="pass">
+                </div>
+
+                <div class="form-group">
+                    <label for=""></label>
+                    <input type="password" class="form-control" name="r-password" placeholder="Please Repeat Password" id="rpass">
+                </div>
+
+                <div class="form-group mt-5">
+                    <button type="submit" class="btn btn-primary">Register</button>
+                    <br>
+                    <small class="mt-2">
+                        Do you have an account?
+                        <a asp-area="" asp-controller="Home" asp-action="Login">Log in</a> immediately.
+                    </small>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
