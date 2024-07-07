@@ -44,6 +44,7 @@ Proje sürecinde kullanılan teknolojilerin yanı sıra, güvenlik, performans v
 
 2. **Kurulum**
    - Projeyi bilgisayarınıza klonlayın.
+   - BookSale klasörü içinden BookSale.sql dosyasını alın
    - Veri tabanı bağlantı dizesini `appsettings.json` dosyasında güncelleyin.
    - Proje dosyalarını Visual Studio'da açın.
    - Paket bağımlılıklarını (eğer yüklü gelmezse) yükleyin ve projeyi derleyin.
