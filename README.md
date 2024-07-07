@@ -1,8 +1,4 @@
-Tabii, işte proje için bir GitHub README.md dosyası örneği:
-
----
-
-# Online Kitap Satış Platformu
+# Online Kitap Satış Platformu (BookSale)
 
 Bu proje, EldaSoft tarafından gerçekleştirilen eğitim sonucundan öğrencilerin gerçek dünya yazılım geliştirme deneyimi kazanmalarını sağlamak amacıyla geliştirilmiş bir online kitap satış platformudur. Proje, C# ve .NET kullanılarak, Entity Framework ORM ile veri tabanı işlemleri gerçekleştirilerek geliştirilmiştir. Ayrıca, jQuery ve AJAX teknolojileri front-end tarafında kullanılmıştır.
 
