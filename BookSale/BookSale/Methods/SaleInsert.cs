@@ -1,6 +1,7 @@
 using BookSale.Models;
 using BookSale.Data;
 using BookSale.EnDeCode;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookSale.Methods;
 
@@ -90,6 +91,80 @@ public class SaleInsert
             {
                 return ($"Error: {ex.Message}");
             }
+    }
+
+
+    public string CompliteSaleInsert(string memberId)
+    {
+          try
+        {
+            // Üye bilgilerini al
+            var member = _context.Member.FirstOrDefault(m => m.Id == int.Parse(memberId));
+            if (member == null)
+            {
+                return ("Member not found.");
+            }
+
+            // Üyenin sepetindeki kitapları al
+            var cartItems = _context.Cart.Include(c => c.Book)
+                .Where(c => c.MemberId == int.Parse(memberId))
+                .ToList();
+
+            if (!cartItems.Any())
+            {
+                return ("No items in the cart to purchase.");
+            }
+
+            // Her bir sepet öğesi için satış işlemi oluştur
+            foreach (var item in cartItems)
+            {
+                // Stok durumunu kontrol et
+                var book = _context.Books.FirstOrDefault(b => b.Id == item.BookId);
+                if (book == null)
+                {
+                    return ("Book not found in database: " + item.BookId);
+                }
+
+                if (book.Stock < item.Piece)
+                {
+                    return ("Insufficient stock for book: " + book.Title);
+                }
+
+                // Satış kaydını oluştur
+                var sale = new SaleModel
+                {
+                    BookId = item.BookId, // Notify alanı için bookId ekleniyor
+                    Name = member.Name,
+                    Phone = member.Phone,
+                    Address = member.Address,
+                    Mail = member.Email,
+                    IsMember = true,
+                    MemberId = int.Parse(memberId) // SaleModel'e MemberId ekleniyor
+                };
+
+                _context.Sale.Add(sale);
+
+                // Stoktan düş
+                book.Stock -= item.Piece;
+
+                // Sepetten öğeyi sil
+                _context.Cart.Remove(item);
+            }
+
+            // Değişiklikleri kaydet
+            _context.SaveChanges();
+
+            return ("success");
+        }
+        catch (DbUpdateException ex)
+        {
+            var innerException = ex.InnerException != null ? ex.InnerException.Message : ex.Message;
+            return ("Database Update Error: " + innerException);
+        }
+        catch (Exception ex)
+        {
+            return ("Error: " + ex.Message);
+        }
     }
     
 }
