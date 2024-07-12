@@ -2,18 +2,20 @@ using System.Linq;
 using BookSale.Models;
 using BookSale.Data;
 using BookSale.EnDeCode;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace BookSale.Methods
 {
-    public class AddCart
+    public class CartMethod
     {
         private readonly ApplicationDbContext _context;
-        private readonly SelectBooks _selectBooks;
+        private readonly BookMethod _bookMethod;
 
-        public AddCart(ApplicationDbContext context, SelectBooks selectBooks)
+        public CartMethod(ApplicationDbContext context, BookMethod bookMethod)
         {
             _context = context;
-            _selectBooks = selectBooks;
+            _bookMethod = bookMethod;
         }
 
         public string CartInsert(string Number, string? memberIdHass)
@@ -27,7 +29,7 @@ namespace BookSale.Methods
             var id = EncryptionHelper.DecryptId(Number);
 
             // Check if the book with given id exists
-            var book = _selectBooks.GetBooks(id: id).FirstOrDefault();
+            var book = _bookMethod.GetBooks(id: id).FirstOrDefault();
             if (book == null)
             {
                 return "error"; // Or handle the case where the book with given id does not exist
@@ -57,6 +59,13 @@ namespace BookSale.Methods
                 _context.SaveChanges();
                 return "update";
             }
+        }
+        
+        public List<CartModel> GetCart(string memberId)
+        {
+            return _context.Cart.Include(c => c.Book)
+                .Where(c => c.MemberId == int.Parse(memberId))
+                .ToList();
         }
     }
 }

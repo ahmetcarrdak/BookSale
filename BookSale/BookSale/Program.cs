@@ -16,8 +16,14 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
         new MySqlServerVersion(new Version(8, 0, 21))));
 
-builder.Services.AddScoped<SelectBooks>();
-builder.Services.AddScoped<SelectMembers>();
+builder.Services.AddScoped<BookMethod>();
+builder.Services.AddScoped<MemberMethod>();
+builder.Services.AddScoped<SaleMethod>();
+builder.Services.AddScoped<CartMethod>();
+builder.Services.AddScoped<MemberMethod>();
+builder.Services.AddScoped<ProfileMethod>();
+builder.Services.AddScoped<PastCartMethod>();
+builder.Services.AddScoped<CustomerMethod>();
 
 // Add session services
 builder.Services.AddDistributedMemoryCache();

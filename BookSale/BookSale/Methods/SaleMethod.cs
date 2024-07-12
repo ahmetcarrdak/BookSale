@@ -5,16 +5,18 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BookSale.Methods;
 
-public class SaleInsert
+public class SaleMethod
 {
     private readonly ApplicationDbContext _context;
 
-    public SaleInsert(ApplicationDbContext context)
+    public SaleMethod(ApplicationDbContext context)
     {
         _context = context;
     }
 
 
+    
+    /* Insert Function */
     public string InsertSale(string notify, string name, string phone, string address, string mail,
         string customerId, int piece)
     {
@@ -93,7 +95,7 @@ public class SaleInsert
             }
     }
 
-
+    
     public string CompliteSaleInsert(string memberId)
     {
           try
@@ -167,4 +169,60 @@ public class SaleInsert
         }
     }
     
+    
+    
+    /* Select Function */
+    public List<SaleModel> GetSales(string memberId = null, string customerId = null)
+    {
+        IQueryable<SaleModel> query = _context.Sale.Include(s => s.Book).Include(s => s.Customer);
+
+        if (!string.IsNullOrEmpty(memberId))
+        {
+            query = query.Where(s => s.MemberId == int.Parse(memberId));
+        }
+
+        if (!string.IsNullOrEmpty(customerId))
+        {
+            query = query.Where(s => s.CustomerId == int.Parse(customerId));
+        }
+
+        return query.ToList();
+    }
+
+    
+    
+    /* Update Functions */
+
+    public string UpdateCustomerToMemberSaleStatus(int bookId)
+    {
+        try
+        {
+            // Satış kaydını veritabanından bul
+            var saleRecord = _context.Sale.FirstOrDefault(s => s.BookId == bookId);
+            if (saleRecord == null)
+            {
+                return ("Sale record not found.");
+            }
+
+            // Status değerini güncelle, 4'ten küçükse bir artır
+            if (saleRecord.Status < 4)
+            {
+                saleRecord.Status += 1;
+
+                // Değişiklikleri kaydet
+                _context.SaveChanges();
+
+                return ("Status updated successfully.");
+            }
+            else
+            {
+                return ("Status cannot be increased as it is already 4 or more.");
+            }
+        }
+        catch (Exception ex)
+        {
+            return ($"An error occurred: {ex.Message}");
+        }
+    }
+
 }

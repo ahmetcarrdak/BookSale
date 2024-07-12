@@ -1,14 +1,10 @@
-using System.Collections.Generic;
-using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using BookSale.Data;
 using BookSale.EnDeCode;
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc.Filters;
-using Microsoft.AspNetCore.Http;
 using BookSale.Models;
-using Microsoft.AspNetCore.Authorization;
+using BookSale.Methods;
 
 namespace BookSale.Areas.AdminPanel.Controllers;
 
@@ -48,18 +44,29 @@ public class SessionCheckAttribute : ActionFilterAttribute
     }
 }
 
-
-
 [Area("AdminPanel")]
 [SessionCheck("/AuthPanel/Auth/AdminAuth")]
-
 public class AdminController : Controller
 {
     private readonly ApplicationDbContext _context;
+    private readonly CustomerMethod _customerMethod;
+    private readonly BookMethod _bookMethod;
+    private readonly SaleMethod _saleMethod;
+    private readonly MemberMethod _memberMethod;
 
-    public AdminController(ApplicationDbContext context)
+    public AdminController(
+        ApplicationDbContext context, 
+        CustomerMethod customerMethod, 
+        BookMethod bookMethod,
+        SaleMethod saleMethod,
+        MemberMethod memberMethod
+        )
     {
         _context = context;
+        _customerMethod = customerMethod;
+        _bookMethod = bookMethod;
+        _saleMethod = saleMethod;
+        _memberMethod = memberMethod;
     }
 
     public IActionResult Index()
@@ -74,25 +81,25 @@ public class AdminController : Controller
 
     public IActionResult Customers()
     {
-        var customers = GetCustomers();
+        var customers = _customerMethod.GetCustomers();
         return View(customers);
     }
 
     public IActionResult Books()
     {
-        var books = GetBooks();
+        var books = _bookMethod.GetBooks();
         return View(books);
     }
 
     public IActionResult Sales()
     {
-        var sales = GetSales();
+        var sales = _saleMethod.GetSales();
         return View(sales);
     }
 
     public IActionResult Members()
     {
-        var members = GetMembers();
+        var members = _memberMethod.SelectMember();
         return View(members);
     }
 
@@ -107,108 +114,24 @@ public class AdminController : Controller
         return Ok("");
     }
 
-
-    private List<CustomerModel> GetCustomers()
-    {
-        return _context.Customers.ToList();
-    }
-
-    private List<BookModel> GetBooks()
-    {
-        return _context.Books.ToList();
-    }
-
-    private List<SaleModel> GetSales()
-    {
-        return _context.Sale
-            .Include(s => s.Book)
-            .Include(s => s.Customer)
-            .ToList();
-    }
-
-    private List<MemberModel> GetMembers()
-    {
-        return _context.Member.ToList();
-    }
-
+    
     [HttpPost]
     public IActionResult UpdateStatus(int id)
     {
-        try
-        {
-            // Müşteriyi veritabanından bul
-            var customer = _context.Customers.FirstOrDefault(c => c.Id == id);
-            if (customer == null)
-            {
-                return NotFound("Customer not found.");
-            }
-
-            // Status 1 ise işlem yapma
-            if (customer.status == 1)
-            {
-                return Ok("Customer status is already 1.");
-            }
-
-            // Status'i 1 yap
-            customer.status = 1;
-
-            // Değişiklikleri kaydet
-            _context.SaveChanges();
-
-            return Ok("Customer status updated successfully.");
-        }
-        catch (Exception ex)
-        {
-            return Ok($"An error occurred: {ex.Message}");
-        }
+        var message = _customerMethod.UpdateStatus(id);
+        return Ok(message);
     }
-    
+
     public IActionResult DeleteBook(int bookId)
     {
-        try
-        {
-            // Kitabı veritabanından bul
-            var book = _context.Books.FirstOrDefault(b => b.Id == bookId);
-            if (book == null)
-            {
-                return NotFound("Book not found.");
-            }
-
-            // Kitabı veritabanından sil
-            _context.Books.Remove(book);
-            _context.SaveChanges();
-
-            return Ok("Book deleted successfully.");
-        }
-        catch (Exception ex)
-        {
-            return Ok($"An error occurred: {ex.Message}");
-        }
+        var message = _bookMethod.DeleteBook(bookId);
+        return Ok(message);
     }
 
 
     public IActionResult DeleteCustomer(int customerId)
     {
-        try
-        {
-            // Müşteriyi veritabanından bul
-            var customer = _context.Customers.FirstOrDefault(c => c.Id == customerId);
-            if (customer == null)
-            {
-                return NotFound("Customer not found.");
-            }
-
-            // Müşteriyi veritabanından sil
-            _context.Customers.Remove(customer);
-            _context.SaveChanges();
-
-            return Ok("Customer deleted successfully.");
-        }
-        catch (Exception ex)
-        {
-            return Ok($"An error occurred: {ex.Message}");
-        }
+        var message = _customerMethod.Delete(customerId);
+        return Ok(message);
     }
-
-
 }

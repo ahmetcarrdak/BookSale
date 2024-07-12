@@ -1,14 +1,8 @@
-using System.Collections.Generic;
-using System.Linq;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using BookSale.Data;
 using BookSale.EnDeCode;
-using System.Diagnostics;
-using Microsoft.AspNetCore.Mvc.Filters;
-using Microsoft.AspNetCore.Http;
 using BookSale.Models;
-using Microsoft.AspNetCore.Authorization;
+using BookSale.Methods;
 
 namespace BookSale.Areas.AuthPanel.Controllers;
 
@@ -16,10 +10,15 @@ namespace BookSale.Areas.AuthPanel.Controllers;
 public class AuthController : Controller
 {
     private readonly ApplicationDbContext _context;
+    private readonly CustomerMethod _customerMethod;
 
-    public AuthController(ApplicationDbContext context)
+    public AuthController(
+        ApplicationDbContext context,
+        CustomerMethod customerMethod
+    )
     {
         _context = context;
+        _customerMethod = customerMethod;
     }
 
     public IActionResult CustomerAuth()
@@ -32,58 +31,24 @@ public class AuthController : Controller
         return View();
     }
 
-    
-    
-    
+
     /* Customer */
     [HttpPost]
     public IActionResult CustomerLogin(string email, string password)
     {
-        var customer = _context.Customers.FirstOrDefault(c => c.Mail == email);
-        var message = "";
-        if (customer != null && EncryptionHelperPass.DecryptId(customer.Password) == password)
-        {
-            HttpContext.Session.SetString("customerPanel_id", EncryptionHelper.EncryptId(customer.Id));
-            message = "success";
-        }
-        else
-        {
-            message = "Users Not Found.";
-        }
-
-
+        var message = _customerMethod.Login(email, password);
         return Ok($"{message}");
     }
 
 
     [HttpPost]
-    public IActionResult CustomerRegister(string name, string phone, string email, string password, string address)
+    public IActionResult CustomerRegister(string name, string phone, string email, string password)
     {
-        var existingCustomer = _context.Customers.FirstOrDefault(c => c.Mail == email);
-        var message = "";
-        if (existingCustomer != null)
-        {
-            message = "This email is already registered.";
-        }
-
-        var hashedPassword = EncryptionHelperPass.EncryptId(password);
-        var customer = new CustomerModel
-        {
-            Name = name,
-            phone = phone,
-            Mail = email,
-            Password = hashedPassword,
-        };
-
-        _context.Customers.Add(customer);
-        _context.SaveChanges();
-
-        message = "success";
+        var message = _customerMethod.Register(name, phone, email, password);
         return Ok($"{message}");
     }
-    
-    
-    
+
+
     /* Admin */
     [HttpPost]
     public IActionResult AdminLogin(string email, string password)
@@ -103,5 +68,4 @@ public class AuthController : Controller
 
         return Ok($"{message}");
     }
-    
 }
