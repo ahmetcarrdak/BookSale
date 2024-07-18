@@ -24,6 +24,7 @@ builder.Services.AddScoped<MemberMethod>();
 builder.Services.AddScoped<ProfileMethod>();
 builder.Services.AddScoped<PastCartMethod>();
 builder.Services.AddScoped<CustomerMethod>();
+builder.Services.AddScoped<ContactMethod>();
 
 // Add session services
 builder.Services.AddDistributedMemoryCache();
